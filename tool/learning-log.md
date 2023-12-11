@@ -27,6 +27,8 @@ The next thing to do is to work on the 3d side of unity and see what to do after
 
 *I learn how variables can be used so we can modify the value in the unity interface itself.
 
+* I learn how to asign player movement
+
 
 <!--
 * Links you used today (websites, videos, etc)
