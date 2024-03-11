@@ -25,20 +25,20 @@ The next thing to do is to work on the 3d side of unity and see what to do after
 
 * I learned about how to create a script and add it to Unity. The script's language is C#.
 
-* I learn how variables can be used so we can modify the value in the unity interface itself.
+* I learned how variables can be used so we can modify the value in the unity interface itself.
 
-* I learn how to asign player movement
+* I learn how to assign player movement
 
 3/10/2024
 
-I had work with on the gameplay feature of my learning ground game. I watch tutorails to see what to do.
-* Drag a object from the heiraure to create a prefab
-* prefab are use if you want use mutible of the smae object at the same time
-* if you affect one prfabe object , every of the same object will change along with it. ( rember to aplied when changeing something on the prefab.)
-* you can click on the axis on the top left, to alighn your cammera to that axis.
-* if you to snap to a grid, you go to edit and click snapsetting, it will open a menu, you if you put 2,2,2 in the first two box, the object will snap to every two grid space.
-* speed build up, so when changing direction you will need to uild up enough for to first do so.
-* add fog to removed player visabley. (increase suspence and genral attation)
+I had worked on the gameplay feature of my learning ground game. I watch tutorials to see what to do.
+* Drag an object from the hierarchy to create a prefab
+* Prefabs are used if you want to use multiple of the same object at the same time
+* if you affect one prefab object, each of the same objects will change along with it. (Remember to apply when changing something on the prefab.)
+* you can click on the axis on the top left, to align your camera to that axis.
+* if you to snap to a grid, you go to edit and click snapsetting, and it will open a menu, if you put 2,2,2 in the first two boxes, the object will snap to every two grid spaces.
+* speed build up, so when changing the direction you will need to build up enough for to first do so.
+* add fog to remove player visibility. (increase suspense and general attention)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
