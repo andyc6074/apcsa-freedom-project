@@ -3,6 +3,7 @@
 
 ### Context
 As I have been learing my tool for some time. I have focas a bit of time decideing on what type game I should work on and what are the mecanices. After siting down and thinking for a while, I have no luck in decide on what the type, however the mechanic is more strait forward for me. I want to my game to based on light and shadow, "day" and "night" modes. Ok, pass the gernal planing, I will be talking about the tinkering.
+
 ### How I been learning
 They way I learn a new feature is by look at tutatral any forms, could be vidieo or websites. I follow trough the steps then I change value to see what that has change and what else effect what.
 #### Example- Camera tracking
