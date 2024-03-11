@@ -39,6 +39,8 @@ I had worked on the gameplay feature of my learning ground game. I watch tutoria
 * if you to snap to a grid, you go to edit and click snapsetting, and it will open a menu, if you put 2,2,2 in the first two boxes, the object will snap to every two grid spaces.
 * speed build up, so when changing the direction you will need to build up enough for to first do so.
 * add fog to remove player visibility. (increase suspense and general attention)
+* looking into Blender and how to sculpt using Blender.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
