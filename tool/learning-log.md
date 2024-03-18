@@ -41,6 +41,14 @@ I had worked on the gameplay feature of my learning ground game. I watch tutoria
 * add fog to remove player visibility. (increase suspense and general attention)
 * looking into Blender and how to sculpt using Blender.
 
+3/16/2024
+I test around the game feature a bit.
+* make sure to organize file into a folder. a example: puting a script file into a script folder
+* to make sure the player don't phase trough other enties, slect continuous under colilsion
+* decrease the fix time to the game will update for freuely, make sure to fix part of the  script that use the fixed time.
+* to create a ui, you would created it the same way as any object.
+* select ui, slect text
+* slect text, the 2d mode
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
