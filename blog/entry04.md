@@ -7,7 +7,35 @@ As I have been learning my tool for some time. I have spent a bit of time decidi
 ### How have I been learning
 The way I learn a new feature is by looking at tutorials or any forms, which could be videos or websites. I follow through the steps then I change the value to see what has changed and what else affects what.
 
-#### Example- 
+
+#### Example- prefabs
+Prefabs are a special type of component that allows fully configured GameObjects to be saved in the Project for reuse.
+
+Prefabs are used if you want to use multiple of the same object at the same time.
+
+ If you affect one prefab object, each of the same objects will change along with it. (Remember to apply when changing something on the prefab.)
+
+#### Example- movement+
+to make the movement more smoother we will have to change some things. The reason for this is speed build up, so when changing the direction you will need to build up enough for to first do so.
+
+```C#
+void FixedUpdate()
+{
+    //added a forward force
+    rb.AddForce(0, 0, forwardForce * Time.deltaTime);
+
+    if (Input.GetKey("d"))
+    {
+        rb.AddForce(sidewayForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
+    }
+
+    if (Input.GetKey("a"))
+    {
+        rb.AddForce(-sidewayForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
+    }
+}
+//VelocityChange change the velocity vetor directly without the need to speed down or speed up.
+```
 
 [Previous](entry03.md) | [Next](entry05.md)
 
