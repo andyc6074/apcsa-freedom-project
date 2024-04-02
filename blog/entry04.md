@@ -37,6 +37,11 @@ void FixedUpdate()
 //VelocityChange changes the velocity vector directly without the need to speed down or speed up.
 ```
 
+### MVP Goal
+I want to figure out how to work with the UI and possibly the game over screen.
+
+How to make a Video Game playlist-(https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=1)
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
