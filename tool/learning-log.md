@@ -42,11 +42,11 @@ I had worked on the gameplay feature of my learning ground game. I watch tutoria
 * looking into Blender and how to sculpt using Blender.
 
 3/16/2024
-I test around the game feature a bit.
-* make sure to organize file into a folder. a example: puting a script file into a script folder
-* to make sure the player don't phase trough other enties, slect continuous under colilsion
-* decrease the fix time to the game will update for freuely, make sure to fix part of the  script that use the fixed time.
-* to create a ui, you would created it the same way as any object.
+I tested around the game feature a bit.
+* make sure to organize the file into a folder. an example: putting a script file into a script folder
+* to make sure the player doesn't phase through other entities, selecting continuous under collision
+* decrease the fixed time so the game will update freely, making sure to fix part of the  script that uses the fixed time.
+* to create a UI, you would create it the same way as any object.
 * select ui, slect text
 * slect text, the 2d mode
 <!--
