@@ -58,12 +58,13 @@ I tested around the game feature a bit.
 -->
 
 4/6/2024
-* Work on trying to learn how to turn the cammera first persont to thired person veiw.
+* Work on trying to learn how to turn the camera first person to third-person view.
 https://www.youtube.com/watch?v=nR5P7AH4aHE
-* make two camera inside the player face and behind the player
-* create a script that when acactived, will switch betwwen to two.
+* make two cameras inside the player's face and behind the player
+* create a script that when practiced, will switch between two.
 ---
-* test out blender to start creating my own model.
-* still having trouble on geting usted to it, but seem fun to learn.
+* test out the blender to start creating my own model.
+* still having trouble on getting used to it, but seems fun to learn.
 https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z
-* test out how to make a game mannager to better run your script instead of just using the player to decetect colistin and other future things.
+---
+* test out how to make a game manager to better run your script instead of just using the player to detect colistin and other future things.
